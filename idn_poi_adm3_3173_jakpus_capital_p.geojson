@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "idn_poi_adm3_3173_jakpus_capital_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173010.0, "A3NAME": "TANAHABANG", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.81470252476727, -6.199651803174723 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173020.0, "A3NAME": "MENTENG", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.840734219693005, -6.198666540367006 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173030.0, "A3NAME": "SENEN", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.843272200576337, -6.173267770568073 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173040.0, "A3NAME": "JOHAR BARU", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.856437488289799, -6.18216910314716 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173050.0, "A3NAME": "CEMPAKA PUTIH", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.866960840490748, -6.184295617971209 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173060.0, "A3NAME": "KEMAYORAN", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.863547088892361, -6.156431823520452 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173070.0, "A3NAME": "SAWAH BESAR", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.830081771015486, -6.161307781297491 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3173.0, "A2NAME": "JAKARTA PUSAT", "A3CODE": 3173080.0, "A3NAME": "GAMBIR", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA PUSAT" }, "geometry": { "type": "Point", "coordinates": [ 106.81908437537615, -6.170808244019398 ] } }
+]
+}

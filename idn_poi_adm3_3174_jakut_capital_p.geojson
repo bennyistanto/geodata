@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "idn_poi_adm3_3174_jakut_capital_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175010.0, "A3NAME": "PENJARINGAN", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.792258601914199, -6.126443556505464 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175020.0, "A3NAME": "PADEMANGAN", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.837174341300042, -6.13308237869408 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175030.0, "A3NAME": "TANJUNG PRIOK", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.892476607513501, -6.117428078234117 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175040.0, "A3NAME": "KOJA", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.910442392786507, -6.117735167597885 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175050.0, "A3NAME": "KELAPA GADING", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.909133759588016, -6.163290830382818 ] } },
+{ "type": "Feature", "properties": { "LAYER": "1355", "KETERANGAN": "Kantor Camat", "A1NAME": "DKI JAKARTA", "A1CODE": 31.0, "A2CODE": 3175.0, "A2NAME": "JAKARTA UTARA", "A3CODE": 3175060.0, "A3NAME": "CILINCING", "TYPE": "Kota", "A2FNAME": "KOTA JAKARTA UTARA" }, "geometry": { "type": "Point", "coordinates": [ 106.939038956422522, -6.102410123094973 ] } }
+]
+}

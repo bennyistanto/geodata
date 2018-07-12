@@ -2,7 +2,7 @@
 
 Data and information play an important role in decision making. Furthermore I specifically talk about the geographical data related to place and position on the earth. In spite of the limited availability of geographical data in the internet, this data is considerably important for visualisation, planning and decision support system in all administrative level including local, regional, national and global. 
 
-Through this repo, I would like to share some data. The data are categorized into Boundaries, Climate, Hydrographic, Natural Hazards, Physical, Point of Interests, Settlements, Transportation and Utilities. Also there are numeric data categorized into Secondary data and Others. Some data related to topographic maps also available through Province page.
+Through this repo, I would like to share some data. The data are categorized into Boundaries (bnd), Climate (cli), Hydrographic (hyd), Natural Hazards (nhr), Physical (phy), Point of Interests (poi), Settlements (pop), Transportation (trs) and Utilities (uti). Also there are numeric data categorized into Secondary data and Others. Some data related to topographic maps also available through Province page.
 
 I will continue to upload new data, so please check this page regularly for updates.
 

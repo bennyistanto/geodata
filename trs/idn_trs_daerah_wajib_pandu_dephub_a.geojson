@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "idn_trs_daerah_wajib_pandu_dephub_a",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMA": "Muara Jawa", "Shape_Leng": "0.754432", "Shape_Area": "0.027915" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 117.180555555, -1.06333333299995 ], [ 117.416666666, -1.13333333299994 ], [ 117.416666666, -1.2 ], [ 117.123333333, -1.2 ], [ 117.180555555, -1.06333333299995 ] ] ] } },
+{ "type": "Feature", "properties": { "NAMA": "Muara Berau", "Shape_Leng": "0.766667", "Shape_Area": "0.025000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 117.75, -0.166666666999959 ], [ 117.833333333, -0.166666666999959 ], [ 117.833333333, -0.466666666999913 ], [ 117.75, -0.466666666999913 ], [ 117.75, -0.166666666999959 ] ] ] } }
+]
+}
